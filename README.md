@@ -1,2 +1,2 @@
-# c-31-cls-project
-I made a smoke effect for my game
+# p5.play-boilerplate
+Boiler plate for p5.play
